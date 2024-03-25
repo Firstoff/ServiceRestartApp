@@ -3,4 +3,5 @@
 кнопки: старт, стоп, открыть каталог, очистить содержимое каталога.
 чекбоксы пока не работают.
 
-sar.png
+![alt text]([https://github.com/Firstoff/ServiceRestartApp/blob/master/sar.png])
+
